@@ -1,0 +1,9 @@
+# Submission artefacts and evidence are not source code
+*.docx
+*.pdf
+evidence/
+__pycache__/
+*.pyc
+err_build_demo/
+build_report.py
+make_console_html.py
